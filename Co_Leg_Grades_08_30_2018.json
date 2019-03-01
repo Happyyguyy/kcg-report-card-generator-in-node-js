@@ -1,0 +1,602 @@
+{
+    "71senaguilar32": {
+        "Donation": "C",
+        "Rhetoric": "C",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71senbaumgardner8": {
+        "Donation": "F",
+        "Rhetoric": "F",
+        "Voting": "F",
+        "last_updated": "8/6/2018"
+    },
+    "71sencooke13": {
+        "Donation": "D",
+        "Rhetoric": "F",
+        "Voting": "F",
+        "last_updated": "8/6/2018"
+    },
+    "71sencoram6": {
+        "Donation": "D",
+        "Rhetoric": "F",
+        "Voting": "F",
+        "last_updated": "8/6/2018"
+    },
+    "71sencourt31": {
+        "Donation": "C",
+        "Rhetoric": "A",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71sencrowder35": {
+        "Donation": "A",
+        "Rhetoric": "A",
+        "Voting": "D",
+        "last_updated": "8/6/2018"
+    },
+    "71sendonovan5": {
+        "Donation": "B",
+        "Rhetoric": "A",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71senfenberg18": {
+        "Donation": "A",
+        "Rhetoric": "C",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71senfields29": {
+        "Donation": "D",
+        "Rhetoric": "A",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71sengarcia3": {
+        "Donation": "B",
+        "Rhetoric": "A",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71sengardner12": {
+        "Donation": "C",
+        "Rhetoric": "F",
+        "Voting": "F",
+        "last_updated": "8/6/2018"
+    },
+    "71sengrantham2": {
+        "Donation": "F",
+        "Rhetoric": "C",
+        "Voting": "F",
+        "last_updated": "7/6/2018"
+    },
+    "71senguzman34": {
+        "Donation": "C",
+        "Rhetoric": "B",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71senhill10": {
+        "Donation": "D",
+        "Rhetoric": "F",
+        "Voting": "F",
+        "last_updated": "8/6/2018"
+    },
+    "71senholbert30": {
+        "Donation": "C",
+        "Rhetoric": "F",
+        "Voting": "F",
+        "last_updated": "8/6/2018"
+    },
+    "71senjahn20": {
+        "Donation": "B",
+        "Rhetoric": "A",
+        "Voting": "B",
+        "last_updated": "8/6/2018"
+    },
+    "71senjones17": {
+        "Donation": "C",
+        "Rhetoric": "A",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71senkagan26": {
+        "Donation": "A",
+        "Rhetoric": "A",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71senkefalas14": {
+        "Donation": "A",
+        "Rhetoric": "A",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71senkerr22": {
+        "Donation": "C",
+        "Rhetoric": "A",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71senlambert9": {
+        "Donation": "F",
+        "Rhetoric": "F",
+        "Voting": "F",
+        "last_updated": "8/6/2018"
+    },
+    "71senlundberg15": {
+        "Donation": "F",
+        "Rhetoric": "F",
+        "Voting": "F",
+        "last_updated": "8/6/2018"
+    },
+    "71senmarble23": {
+        "Donation": "C",
+        "Rhetoric": "F",
+        "Voting": "F",
+        "last_updated": "8/6/2018"
+    },
+    "71senmartinez humenik24": {
+        "Donation": "F",
+        "Rhetoric": "D",
+        "Voting": "D",
+        "last_updated": "8/6/2018"
+    },
+    "71senmerrifield11": {
+        "Donation": "B",
+        "Rhetoric": "A",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71senmoreno21": {
+        "Donation": "C",
+        "Rhetoric": "C",
+        "Voting": "D",
+        "last_updated": "8/6/2018"
+    },
+    "71senneville16": {
+        "Donation": "F",
+        "Rhetoric": "F",
+        "Voting": "F",
+        "last_updated": "8/6/2018"
+    },
+    "71senpriola25": {
+        "Donation": "C",
+        "Rhetoric": "D",
+        "Voting": "D",
+        "last_updated": "8/6/2018"
+    },
+    "71senscott7": {
+        "Donation": "F",
+        "Rhetoric": "D",
+        "Voting": "F",
+        "last_updated": "8/6/2018"
+    },
+    "71sensmallwood4": {
+        "Donation": "C",
+        "Rhetoric": "C",
+        "Voting": "F",
+        "last_updated": "8/6/2018"
+    },
+    "71sensonnenberg1": {
+        "Donation": "F",
+        "Rhetoric": "F",
+        "Voting": "F",
+        "last_updated": "8/6/2018"
+    },
+    "71sentate27": {
+        "Donation": "C",
+        "Rhetoric": "D",
+        "Voting": "F",
+        "last_updated": "8/6/2018"
+    },
+    "71sentodd28": {
+        "Donation": "C",
+        "Rhetoric": "C",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71senwilliams33": {
+        "Donation": "",
+        "Rhetoric": "",
+        "Voting": "F",
+        "last_updated": "8/6/2018"
+    },
+    "71senzenzinger19": {
+        "Donation": "A",
+        "Rhetoric": "A",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71reparndt53": {
+        "Donation": "",
+        "Rhetoric": "A",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71repbecker65": {
+        "Donation": "",
+        "Rhetoric": "F",
+        "Voting": "F",
+        "last_updated": "8/6/2018"
+    },
+    "71repbecker13": {
+        "Donation": "",
+        "Rhetoric": "A",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71repbeckman38": {
+        "Donation": "",
+        "Rhetoric": "F",
+        "Voting": "F",
+        "last_updated": "8/6/2018"
+    },
+    "71repbenavidez32": {
+        "Donation": "",
+        "Rhetoric": "C",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71repbridges3": {
+        "Donation": "",
+        "Rhetoric": "A",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71repbuck49": {
+        "Donation": "F",
+        "Rhetoric": "F",
+        "Voting": "F",
+        "last_updated": "8/6/2018"
+    },
+    "71repbuckner40": {
+        "Donation": "A",
+        "Rhetoric": "A",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71repcarver20": {
+        "Donation": "F",
+        "Rhetoric": "F",
+        "Voting": "F",
+        "last_updated": "8/6/2018"
+    },
+    "71repcatlin58": {
+        "Donation": "D",
+        "Rhetoric": "D",
+        "Voting": "D",
+        "last_updated": "8/6/2018"
+    },
+    "71repcoleman7": {
+        "Donation": "F",
+        "Rhetoric": "F",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71repcovarrubias56": {
+        "Donation": "F",
+        "Rhetoric": "F",
+        "Voting": "F",
+        "last_updated": "8/6/2018"
+    },
+    "71repdanielson24": {
+        "Donation": "B",
+        "Rhetoric": "",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71repduran5": {
+        "Donation": "B",
+        "Rhetoric": "",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71repesgar46": {
+        "Donation": "B",
+        "Rhetoric": "",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71repeverett22": {
+        "Donation": "F",
+        "Rhetoric": "",
+        "Voting": "F",
+        "last_updated": "8/6/2018"
+    },
+    "71repexum17": {
+        "Donation": "B",
+        "Rhetoric": "",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71repfoote12": {
+        "Donation": "A",
+        "Rhetoric": "A",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71repgarnett2": {
+        "Donation": "A",
+        "Rhetoric": "A",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71repginal52": {
+        "Donation": "A",
+        "Rhetoric": "A",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71repgray33": {
+        "Donation": "A",
+        "Rhetoric": "",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71rephamner61": {
+        "Donation": "B",
+        "Rhetoric": "",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71rephansen6": {
+        "Donation": "B",
+        "Rhetoric": "A",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71repherod8": {
+        "Donation": "B",
+        "Rhetoric": "A",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71rephooton10": {
+        "Donation": "A",
+        "Rhetoric": "A",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71rephumphrey48": {
+        "Donation": "F",
+        "Rhetoric": "F",
+        "Voting": "F",
+        "last_updated": "8/6/2018"
+    },
+    "71repjackson42": {
+        "Donation": "A",
+        "Rhetoric": "",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71repkennedy23": {
+        "Donation": "A",
+        "Rhetoric": "A",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71repkraft-tharp29": {
+        "Donation": "A",
+        "Rhetoric": "A",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71replandgraf21": {
+        "Donation": "F",
+        "Rhetoric": "F",
+        "Voting": "F",
+        "last_updated": "8/6/2018"
+    },
+    "71replawrence39": {
+        "Donation": "F",
+        "Rhetoric": "F",
+        "Voting": "D",
+        "last_updated": "8/6/2018"
+    },
+    "71replee18": {
+        "Donation": "A",
+        "Rhetoric": "A",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71repleonard25": {
+        "Donation": "F",
+        "Rhetoric": "F",
+        "Voting": "F",
+        "last_updated": "8/6/2018"
+    },
+    "71replewis64": {
+        "Donation": "F",
+        "Rhetoric": "F",
+        "Voting": "F",
+        "last_updated": "8/6/2018"
+    },
+    "71repliston16": {
+        "Donation": "F",
+        "Rhetoric": "F",
+        "Voting": "F",
+        "last_updated": "8/6/2018"
+    },
+    "71replontine1": {
+        "Donation": "B",
+        "Rhetoric": "A",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71replundeen19": {
+        "Donation": "F",
+        "Rhetoric": "F",
+        "Voting": "F",
+        "last_updated": "8/6/2018"
+    },
+    "71repmckean51": {
+        "Donation": "F",
+        "Rhetoric": "F",
+        "Voting": "F",
+        "last_updated": "8/6/2018"
+    },
+    "71repmclachlan59": {
+        "Donation": "A",
+        "Rhetoric": "A",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71repmelton41": {
+        "Donation": "A",
+        "Rhetoric": "A",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71repmichaelson jenet30": {
+        "Donation": "A",
+        "Rhetoric": "A",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71repneville45": {
+        "Donation": "",
+        "Rhetoric": "",
+        "Voting": "F",
+        "last_updated": "8/6/2018"
+    },
+    "71reppabon4": {
+        "Donation": "",
+        "Rhetoric": "",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71reppettersen28": {
+        "Donation": "",
+        "Rhetoric": "",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71reprankin57": {
+        "Donation": "",
+        "Rhetoric": "",
+        "Voting": "F",
+        "last_updated": "8/6/2018"
+    },
+    "71repransom44": {
+        "Donation": "",
+        "Rhetoric": "",
+        "Voting": "F",
+        "last_updated": "8/6/2018"
+    },
+    "71repreyher47": {
+        "Donation": "",
+        "Rhetoric": "",
+        "Voting": "",
+        "last_updated": "8/6/2018"
+    },
+    "71reproberts26": {
+        "Donation": "",
+        "Rhetoric": "",
+        "Voting": "",
+        "last_updated": "8/6/2018"
+    },
+    "71reprosenthal9": {
+        "Donation": "",
+        "Rhetoric": "",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71repsaine63": {
+        "Donation": "",
+        "Rhetoric": "",
+        "Voting": "F",
+        "last_updated": "8/6/2018"
+    },
+    "71repsalazar31": {
+        "Donation": "",
+        "Rhetoric": "",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71repsandridge14": {
+        "Donation": "",
+        "Rhetoric": "",
+        "Voting": "",
+        "last_updated": "8/6/2018"
+    },
+    "71repsias27": {
+        "Donation": "",
+        "Rhetoric": "",
+        "Voting": "F",
+        "last_updated": "8/6/2018"
+    },
+    "71repsinger11": {
+        "Donation": "",
+        "Rhetoric": "",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71repthurlow55": {
+        "Donation": "",
+        "Rhetoric": "",
+        "Voting": "D",
+        "last_updated": "8/6/2018"
+    },
+    "71repvaldez62": {
+        "Donation": "",
+        "Rhetoric": "",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71repvan winkle43": {
+        "Donation": "",
+        "Rhetoric": "",
+        "Voting": "F",
+        "last_updated": "8/6/2018"
+    },
+    "71repweissman36": {
+        "Donation": "",
+        "Rhetoric": "",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71repwillett54": {
+        "Donation": "",
+        "Rhetoric": "",
+        "Voting": "F",
+        "last_updated": "8/6/2018"
+    },
+    "71repwilliams15": {
+        "Donation": "A",
+        "Rhetoric": "A",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71repwilson60": {
+        "Donation": "",
+        "Rhetoric": "",
+        "Voting": "F",
+        "last_updated": "8/6/2018"
+    },
+    "71repwinkler34": {
+        "Donation": "",
+        "Rhetoric": "",
+        "Voting": "",
+        "last_updated": "8/6/2018"
+    },
+    "71repwinter35": {
+        "Donation": "",
+        "Rhetoric": "",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    },
+    "71repwist37": {
+        "Donation": "",
+        "Rhetoric": "",
+        "Voting": "F",
+        "last_updated": "8/6/2018"
+    },
+    "71repyoung50": {
+        "Donation": "",
+        "Rhetoric": "",
+        "Voting": "A",
+        "last_updated": "8/6/2018"
+    }
+}

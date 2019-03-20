@@ -5,8 +5,10 @@ const serviceAccount = require(serviceAccountJSON);
 
 var db;
 var LookupScope;
+// num is assembly number
+var legNumber;
 
-async function initFirebase() {
+async function initFirebase(num=71) {
 
   admin.initializeApp({
     credential: admin.credential.cert(serviceAccount),
@@ -14,6 +16,9 @@ async function initFirebase() {
   });
   db = await admin.firestore();
   LookupScope = db.collection("LookupTable")
+  module.exports.LookupScope = LookupScope
+
+  legNumber = String(num)
   return db;
 }
 
@@ -52,6 +57,7 @@ async function postData(data, collectionScope) {
 
   }
   var doc = await collectionScope.add(data)
+  doc.update({id: doc.id})
   postLookup(doc.id, doc, data.tags)
 
   return doc
@@ -82,6 +88,36 @@ async function postLookup(id, ref, tags) {
   return await LookupScope.doc(id).set({path: ref, tags:tags})
 }
 
+async function getAll(config) {
+  let geoScope = "State"
+  let house = "all"
+  if (config) {
+    if (config.geoScope) {geoScope = String(config.geoScope)}
+    if (config.legNumber) {let legNumber = String(config.legNumber)}
+    if (config.house) {house = String(config.house)}
+  }
+
+  var data = []
+  if (house == "all") {
+    let subCollections = await db.collection(geoScope).doc(legNumber).getCollections();
+    // subCollections.forEach((collection) => {
+    //   collection.get().then(() => {
+    //     documents.forEach((doc) => {
+    //       let docData = doc.data()
+    //       // console.log(docData);
+    //       data.push(docData)
+    //     })
+    //   })
+    // })
+    for (let collection of subCollections) {
+      let documents = await collection.get();
+      for (let doc of documents.docs) {
+        data.push(doc.data());
+      }
+    }
+    return data;
+  }
+}
 
 module.exports = {
   getData: getData,
@@ -89,5 +125,6 @@ module.exports = {
   postData: postData,
   updateData: updateData,
   postLookup: postLookup,
-  getScope: getScope
-}
+  getScope: getScope,
+  getAll: getAll,
+};

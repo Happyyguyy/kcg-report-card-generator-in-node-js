@@ -14,5 +14,8 @@
     "i": "^0.3.6",
     "jimp": "^0.6.0",
     "jimpfont": "0.0.6"
+  },
+  "jshintConfig": {
+      "esversion": 8
   }
 }

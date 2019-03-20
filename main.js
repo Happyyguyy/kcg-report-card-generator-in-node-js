@@ -6,6 +6,7 @@ var configFile = "./template.json"
 
 
 
+
 async function setup() {
   // TODO: get scopes programatically?
 }
